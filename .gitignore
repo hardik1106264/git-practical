@@ -1,0 +1,9 @@
+_pycash_/
+
+*.pyc
+
+temp.txt
+
+*.log
+
+.vscode/
